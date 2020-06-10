@@ -1,8 +1,9 @@
 # Applied-Plotting-Charting-Data-Representation-in-Python
 Data Visualization, Data Virtualization in Python 
 
-#Some Great Informations;
-**Matplotlib**  (http://www.aosabook.org/en/matplotlib.html)
+#**#Some Great Informations;**
+
+#**The Architecture of Open Source Applications Matplotlib**  (http://www.aosabook.org/en/matplotlib.html)
 
 Matplotlib's origin dates to an attempt by one of us (John Hunter) to free himself and his fellow epilepsy researchers from a proprietary software package for doing electrocorticography (ECoG) analysis. 
 
@@ -23,3 +24,17 @@ This hierarchy is the middle layer of the matplotlib stack, and is the place whe
 **Scripting Layer (pyplot)**
 
 Most special-purpose languages for data analysis and visualization provide a lighter scripting interface to simplify common tasks, and matplotlib does so as well in its matplotlib.pyplot interface.
+
+#**Ten Simple Rules for Better Figures** (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+
+Rule 1: Know Your Audience
+Rule 2: Identify Your Message
+Rule 3: Adapt the Figure to the Support Medium
+Rule 4: Captions Are Not Optional
+Rule 5: Do Not Trust the Defaults
+Rule 6: Use Color Effectively
+Rule 7: Do Not Mislead the Reader
+Rule 8: Avoid “Chartjunk”
+Rule 9: Message Affects Beauty
+Rule 10: Get the Right Tool
+
